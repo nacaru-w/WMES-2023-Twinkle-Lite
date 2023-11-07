@@ -15,8 +15,8 @@ transitionSpeed: fast
 
 ## 
 
-<div style="font-size:1.2em">
-[`es.wikipedia.org/wiki/Wikipedia:Twinkle_Lite`](https://es.wikipedia.org/wiki/Wikipedia:Twinkle_Lite)
+<div style="font-size:1.1em">
+[`https://nacaru-w.github.io/WMES-2023-Twinkle-Lite`](https://nacaru-w.github.io/WMES-2023-Twinkle-Lite)
 </div>
 
 
