@@ -1,6 +1,6 @@
 ---
-title: "Twinkle Lite <br/><span style='font-size: 0.65em;'>Una herramienta que ayuda al mantenimiento en Wikipedia</span>"
-author: <a href="https://es.wikipedia.org/wiki/Usuario:Nacaru">Ignacio Casares</a>
+title: "<span class='container'><img src='./img/Twinkle_Lite_logo.svg' /></span><br/>Twinkle Lite <span> <br/><span style='font-size: 0.65em;'>Una herramienta que ayuda al mantenimiento en Wikipedia</span>"
+author: <a href="https://es.wikipedia.org/wiki/Usuario:Nacaru">Nacho Casares</a>
 lang: es
 theme: white
 css: ["custom.css"]
@@ -15,8 +15,8 @@ transitionSpeed: fast
 
 ## 
 
-<div style="font-size:1.1em">
-[`https://nacaru-w.github.io/WMES-2023-Twinkle-Lite`](https://nacaru-w.github.io/WMES-2023-Twinkle-Lite)
+<div style="font-size:1.2em">
+[`es.wikipedia.org/wiki/Wikipedia:Twinkle_Lite`](https://es.wikipedia.org/wiki/Wikipedia:Twinkle_Lite)
 </div>
 
 
@@ -124,9 +124,9 @@ Al igual que otros módulos, incluye una opción para dejar un mensaje de aviso 
 
 ## Ideas
 
-- Expandir el módulo de etiquetado para incluir mensajes en las PD de los artículos, así como plantillas que van en otras posiciones dentro del artículo.
+- Expandir el módulo de etiquetado para incluir plantillas que van en otras posiciones dentro del artículo (<span class="code">`{{control de autoridades}}`</span> o <span class="code">`{{NF}}`</span>).
 - Añadir características que ayuden al mantenimiento de tareas específicas de los bibliotecarios.
-- Habilitar la posibilidad de activar herramienta en el menú de configuración de usuario a través de [MediaWiki:Gadgets-definition](https://es.wikipedia.org/wiki/MediaWiki:Gadgets-definition) (hay que realizar una solicitud en el tablón de solicitudes de editores de interfaz)
+- Habilitar la posibilidad de activar herramienta en el menú de configuración de usuario a través de [MediaWiki:Gadgets-definition](https://es.wikipedia.org/wiki/MediaWiki:Gadgets-definition) (hay una solicitud procesándose en el tablón de editores de interfaz)
 
 # Fin
 
